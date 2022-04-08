@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "543156726595",
+    "project_id": "gadgo-a8987",
+    "storage_bucket": "gadgo-a8987.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543156726595:android:71613e8b1a0df5699bddf6",
+        "android_client_info": {
+          "package_name": "com.example.demo_eco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "543156726595-5206m3qeovreekah9ep61ff1f10a3r9s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.demo_eco",
+            "certificate_hash": "7942ccbc1b1cf62b480bb4b258eb917c0bb77bf4"
+          }
+        },
+        {
+          "client_id": "543156726595-bv1cstrcl8a3deo6vdu3cunlihd6od9m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdg_ovl3S3b41KR_HLifxnJJEzyu_J2QM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "543156726595-bv1cstrcl8a3deo6vdu3cunlihd6od9m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
